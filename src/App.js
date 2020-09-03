@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import CatComponent from '/CatComponent.js'
+
 class App extends Component {
 	render() {
 		// your code in the return statement below!
